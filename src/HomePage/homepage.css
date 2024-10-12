@@ -1,0 +1,84 @@
+.test {
+  background-color: var(--Grey__950);
+  height: 2000px;
+}
+
+.landing-page {
+  display: flex;
+  width: 100vw;
+  gap: 48px;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing-page__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 32px;
+  flex-direction: column;
+  height: 60vh;
+}
+
+/* Logo Styling */
+.landing-page__logo {
+  width: 200px;
+}
+
+/* Headline Styling */
+.landing-page__headline {
+  width: 600px;
+  margin: 0;
+  color: var(--Grey__50); /* Default black */
+}
+
+.highlight-green {
+  color: var(--Primary__500); /* Green color */
+}
+
+.highlight-purple {
+  color: var(--Secondary__500); /* Purple color */
+}
+
+/* Subheading Styling */
+.landing-page__subheading {
+  color: var(--Grey__50);
+}
+
+/* CTA Button */
+.landing-page__cta {
+  background-color: var(--Secondary__500);
+  color: var(--Grey__950);
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s ease-out;
+}
+
+.landing-page__cta:hover {
+  background-color: var(--Secondary__350); /* Darker purple on hover */
+}
+
+/* Learn More Link */
+.landing-page__learn-more {
+  color: var(--Grey__500);
+  text-decoration: none;
+}
+
+.landing-page__learn-more:hover {
+  text-decoration: underline;
+}
+
+.landing-page__img1 {
+  position: absolute;
+  top: 20%;
+  left: -3%;
+}
+
+.landing-page__img2 {
+  position: absolute;
+  top: 10%;
+  right: -2%;
+}
