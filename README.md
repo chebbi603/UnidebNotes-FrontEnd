@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Unideb Notes front-end Repository
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created within the framework of the "Software Development for Engineers" course. 
 
-## Available Scripts
+## React Available Commands
 
 In the project directory, you can run:
 
