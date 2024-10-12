@@ -74,11 +74,11 @@
 .landing-page__img1 {
   position: absolute;
   top: 20%;
-  left: -3%;
+  right: 75%;
 }
 
 .landing-page__img2 {
   position: absolute;
   top: 10%;
-  right: -2%;
+  left: 75%;
 }
