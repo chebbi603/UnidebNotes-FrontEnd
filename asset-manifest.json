@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/UnidebNotes-FrontEnd/static/css/main.45f1c730.css",
-    "main.js": "/UnidebNotes-FrontEnd/static/js/main.8c898828.js",
+    "main.css": "/UnidebNotes-FrontEnd/static/css/main.77814f2b.css",
+    "main.js": "/UnidebNotes-FrontEnd/static/js/main.7357067c.js",
     "static/js/453.85c1c64a.chunk.js": "/UnidebNotes-FrontEnd/static/js/453.85c1c64a.chunk.js",
     "static/media/image.png": "/UnidebNotes-FrontEnd/static/media/image.11be04369256035d10db.png",
     "static/media/image-1.png": "/UnidebNotes-FrontEnd/static/media/image-1.ba0dfd3ecfd72b505d92.png",
     "static/media/notes-logo-nav.svg": "/UnidebNotes-FrontEnd/static/media/notes-logo-nav.c990f291cc24d02541d1373ff2724e0a.svg",
+    "static/media/logo-white.svg": "/UnidebNotes-FrontEnd/static/media/logo-white.b568077ad6d36e39b26536afabb32514.svg",
     "static/media/logo.svg": "/UnidebNotes-FrontEnd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/UnidebNotes-FrontEnd/index.html",
-    "main.45f1c730.css.map": "/UnidebNotes-FrontEnd/static/css/main.45f1c730.css.map",
-    "main.8c898828.js.map": "/UnidebNotes-FrontEnd/static/js/main.8c898828.js.map",
+    "main.77814f2b.css.map": "/UnidebNotes-FrontEnd/static/css/main.77814f2b.css.map",
+    "main.7357067c.js.map": "/UnidebNotes-FrontEnd/static/js/main.7357067c.js.map",
     "453.85c1c64a.chunk.js.map": "/UnidebNotes-FrontEnd/static/js/453.85c1c64a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45f1c730.css",
-    "static/js/main.8c898828.js"
+    "static/css/main.77814f2b.css",
+    "static/js/main.7357067c.js"
   ]
 }
