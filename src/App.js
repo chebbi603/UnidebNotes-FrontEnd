@@ -12,13 +12,13 @@ function App() {
   console.log(zoomLevel);
 
   const el = useRef();
-  document.documentElement.style.zoom = "0.9";
   return (
     <ReactLenis root ref={el}>
       <div className="App">
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/login" element={<AuthPage />} />
+          <Route path="/login" element={<AuthPage authType={1} />} />
+          <Route path="/register" element={<AuthPage authType={0} />} />
         </Routes>
       </div>
     </ReactLenis>

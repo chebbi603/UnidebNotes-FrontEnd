@@ -78,3 +78,12 @@
     color: var(--Secondary__350);
   }
 }
+
+.major-container {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+.major-select {
+  width: 100px;
+}
